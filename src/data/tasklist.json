@@ -1,0 +1,24 @@
+[
+
+    {
+        "id": 1,
+        "title": "Clean room",
+        "status": true
+    },
+    {
+        "id": 2,
+        "title": "Work on A+",
+        "status": false
+    },
+    {
+        "id": 3,
+        "title": "Basketball practice",
+        "status": false
+    },
+    {
+        "id": 4,
+        "title": "Groceries",
+        "status": true
+    }
+
+]

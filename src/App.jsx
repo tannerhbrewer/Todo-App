@@ -1,7 +1,12 @@
+import TaskList from '../src/components/TaskList.jsx'
 
 function App() {
   return (
-    <div>Welcome to my Todo Application!</div>
+    <>
+    <div className='min-h-screen bg-stone-900 text-white'>
+      <TaskList />
+    </div>
+    </>
   )
 }
 
